@@ -11,9 +11,8 @@ I am a computer engineering student at UFPE, currently studying Machine Learning
 
 I work with a variety of programming languages, libraries, and tools. Here are some of the technologies thai I got familiar with during my college years:
 
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
-
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; background-color:#20232a; border-radius:5px; width:715px; margin:2px; padding-bottom:10px;"> 
+<div align="center">
+<div> 
     <h3>Programming Languages </h3>
     <div>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -23,7 +22,7 @@ I work with a variety of programming languages, libraries, and tools. Here are s
     </div>
 </div>
 
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; background-color:#20232a; border-radius:5px; width:715px; margin:2px; padding-bottom:10px;"> 
+<div> 
     <h3>Machine Learning and Computer Vision</h3>
     <div>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
@@ -34,14 +33,14 @@ I work with a variety of programming languages, libraries, and tools. Here are s
     </div>
 </div>
 
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; background-color:#20232a; border-radius:5px; width:715px; margin:2px; padding-bottom:10px;"> 
+<div> 
     <h3>Embedded Systems</h3>
     <div>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain.svg">
     </div>
 </div>
 
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; background-color:#20232a; border-radius:5px; width:715px; margin:2px; padding-bottom:10px;"> 
+<div> 
     <h3>Web Development</h3>
     <div>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -50,7 +49,7 @@ I work with a variety of programming languages, libraries, and tools. Here are s
     </div>
 </div>
 
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; background-color:#20232a; border-radius:5px; width:715px; margin:2px; padding-bottom:10px;"> 
+<div> 
     <h3>Operating Systems</h3>
     <div>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -69,9 +68,10 @@ Linear Neural Networks for Regression
 Linear Neural Networks for Classification
 
 Convolutional Neural Networks
+
 Recurrent Neural Networks
+
 Computer Vision
-Generative Adversarial Networks
 
 <a href="https://github.com/V1ct0rC/System-Controller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=System-Controller&theme=react&hide_border=true" />
@@ -81,7 +81,7 @@ Generative Adversarial Networks
 
 **Some Embedded Systems projects:**
 
-<div style="display:flex; flex-direction:row; justify-content:center;">
+<div>
     <a href="https://github.com/V1ct0rC/Embedded-Projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Embedded-Projects&theme=react&hide_border=true">
     </a>
@@ -103,9 +103,8 @@ Generative Adversarial Networks
 
 ## GitHub Stats 📈
 
-<div style="display:flex; flex-direction:row; justify-content:center;">
+<div align="center">
   <img width="284em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rC&layout=compact&langs_count=7&theme=react&hide_border=true"/> 
-  
   <img width="431em" src="https://github-readme-stats.vercel.app/api?username=V1ct0rC&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
@@ -118,7 +117,7 @@ Let's connect and collaborate on projects or just chat about technology and codi
 
 <div align="center">
 <a href="https://www.instagram.com/v.carvalh0/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/vcarvalh0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+<br>
 <img width="321px" src="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/HC.png" style="background-color:white; border-radius:5px;">
 </div>
 
