@@ -1,6 +1,6 @@
 # Hello, I'm Victor 👋
 
-<img width="1000px" height="150px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw0cDl5emVyOThpbnk0eXd3OGllcHhvNTY0OXZ4czh2OWxjdTEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" style="object-fit: cover; object-position: top">
+![alt text](https://github.com/V1ct0rC/V1ct0rC/blob/main/_6a25adf1-7c56-4546-b55a-9913e3d8ee9e1.jpeg)
 
 I am a computer engineering student at UFPE, currently studying Machine Learning and its applications in Virtual Reality. Welcome to my GitHub profile!
 
