@@ -65,6 +65,16 @@ I work with a variety of programming languages, libraries, and tools. Here are s
 
 Linear Neural Networks for Regression
 
+<div>
+    <a href="https://github.com/V1ct0rC/Simple-Linear-Regression">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Simple-Linear-Regression&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/Car-Price-Predictor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Price-Predictor&theme=react&hide_border=true">
+</a>
+</div>
+<br>
+
 Linear Neural Networks for Classification
 
 Convolutional Neural Networks
@@ -73,9 +83,14 @@ Recurrent Neural Networks
 
 Computer Vision
 
-<a href="https://github.com/V1ct0rC/System-Controller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=System-Controller&theme=react&hide_border=true" />
+<div>
+    <a href="https://github.com/V1ct0rC/System-Controller">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=System-Controller&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/License-Plate-Blurring">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=License-Plate-Blurring&theme=react&hide_border=true">
 </a>
+</div>
 
 <br><br>
 
@@ -93,10 +108,14 @@ Computer Vision
 
 **Things I made (or that I'm making) for fun:**
 
-<a href="https://github.com/V1ct0rC/Sprout-Lands">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Sprout-Lands&theme=react&hide_border=true" />
+<div>
+    <a href="https://github.com/V1ct0rC/Sprout-Lands">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Sprout-Lands&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/IHS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=IHS&theme=react&hide_border=true">
 </a>
-
+</div>
 
 #### You can find more of my projects on my [GitHub repositories](https://github.com/V1ct0rC).
 
