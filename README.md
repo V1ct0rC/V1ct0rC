@@ -2,14 +2,12 @@
 
 ![alt text](https://github.com/V1ct0rC/V1ct0rC/blob/main/_6a25adf1-7c56-4546-b55a-9913e3d8ee9e1.jpeg)
 
-I am a computer engineering student at UFPE, currently studying Machine Learning and its applications in Virtual Reality. Welcome to my GitHub profile!
-
-🌱 I'm currently learning Deep Learning and Computer Vision.
+I am a computer engineering student at UFPE, currently studying Machine Learning (Computer Vision) and its applications in Virtual Reality (mainly using Unity). Welcome to my GitHub profile!
 
 
 ## Technologies & Tools ⚙️
 
-I work with a variety of programming languages, libraries, and tools. Here are some of the technologies thai I got familiar with during my college years:
+I have worked with a variety of programming languages, libraries, and tools. Here are some of the technologies thai I got familiar with during my college years:
 
 <div align="center">
 <div> 
@@ -18,6 +16,7 @@ I work with a variety of programming languages, libraries, and tools. Here are s
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     </div>
 </div>
@@ -36,7 +35,7 @@ I work with a variety of programming languages, libraries, and tools. Here are s
 <div> 
     <h3>Embedded Systems</h3>
     <div>
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain.svg">
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
     </div>
 </div>
 
@@ -53,7 +52,7 @@ I work with a variety of programming languages, libraries, and tools. Here are s
     <h3>Operating Systems</h3>
     <div>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </div>
 </div>
 </div>
@@ -112,9 +111,6 @@ Computer Vision
     <a href="https://github.com/V1ct0rC/Sprout-Lands">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Sprout-Lands&theme=react&hide_border=true">
     </a>
-    <a href="https://github.com/V1ct0rC/IHS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=IHS&theme=react&hide_border=true">
-</a>
 </div>
 
 #### You can find more of my projects on my [GitHub repositories](https://github.com/V1ct0rC).
