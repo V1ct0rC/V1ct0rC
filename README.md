@@ -70,11 +70,21 @@ Linear Neural Networks for Regression
     </a>
     <a href="https://github.com/V1ct0rC/Car-Price-Predictor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Price-Predictor&theme=react&hide_border=true">
-</a>
+    </a>
 </div>
 <br>
 
 Linear Neural Networks for Classification
+
+<div>
+    <a href="https://github.com/V1ct0rC/Mushroom-Classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Mushroom-Classifier&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/Iris-Flower-Classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Iris-Flower-Classifier&theme=react&hide_border=true">
+    </a>
+</div>
+<br>
 
 Convolutional Neural Networks
 
@@ -88,7 +98,7 @@ Computer Vision
     </a>
     <a href="https://github.com/V1ct0rC/License-Plate-Blurring">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=License-Plate-Blurring&theme=react&hide_border=true">
-</a>
+    </a>
 </div>
 
 <br><br>
@@ -101,7 +111,7 @@ Computer Vision
     </a>
     <a href="https://github.com/V1ct0rC/IHS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=IHS&theme=react&hide_border=true">
-</a>
+    </a>
 </div>
 <br><br>
 
