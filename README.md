@@ -62,7 +62,7 @@ I have worked with a variety of programming languages, libraries, and tools. Her
 
 **Roadmap trough Neural Networks and Deep Learning projects:** (Work in progress)
 
-Linear Neural Networks for Regression
+Artificial Neural Networks for Regression
 
 <div>
     <a href="https://github.com/V1ct0rC/Simple-Linear-Regression">
@@ -74,7 +74,7 @@ Linear Neural Networks for Regression
 </div>
 <br>
 
-Linear Neural Networks for Classification
+Artificial Neural Networks for Classification
 
 <div>
     <a href="https://github.com/V1ct0rC/Mushroom-Classifier">
@@ -87,6 +87,16 @@ Linear Neural Networks for Classification
 <br>
 
 Convolutional Neural Networks
+
+<div>
+    <a href="https://github.com/V1ct0rC/CIFAR10-Classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=CIFAR10-Classifier&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/Microscopic-Fungi-Classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Microscopic-Fungi-Classifier&theme=react&hide_border=true">
+    </a>
+</div>
+<br>
 
 Recurrent Neural Networks
 
