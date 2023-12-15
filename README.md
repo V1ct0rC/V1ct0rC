@@ -110,6 +110,12 @@ Computer Vision
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=License-Plate-Blurring&theme=react&hide_border=true">
     </a>
 </div>
+<br>
+<div>
+    <a href="https://github.com/V1ct0rC/Car-Object-Detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Object-Detection&theme=react&hide_border=true">
+    </a>
+</div>
 
 <br><br>
 
