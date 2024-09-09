@@ -101,6 +101,15 @@ Convolutional Neural Networks
     </a>
 </div>
 <br>
+<div>
+    <a href="https://github.com/V1ct0rC/Enhancing-Sea-Ice-Segmentation-Model">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Enhancing-Sea-Ice-Segmentation-Model&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/Analise-de-modelos-IA">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Analise-de-modelos-IA&theme=react&hide_border=true">
+    </a>
+</div>
+<br>
 
 <!--Recurrent Neural Networks-->
 
@@ -116,6 +125,9 @@ Computer Vision
 </div>
 <br>
 <div>
+    <a href="https://github.com/V1ct0rC/Car-Object-Detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Object-Detection&theme=react&hide_border=true">
+    </a>
     <a href="https://github.com/V1ct0rC/Car-Object-Detection">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Object-Detection&theme=react&hide_border=true">
     </a>
