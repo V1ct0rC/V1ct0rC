@@ -128,8 +128,8 @@ Computer Vision
     <a href="https://github.com/V1ct0rC/Car-Object-Detection">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Object-Detection&theme=react&hide_border=true">
     </a>
-    <a href="https://github.com/V1ct0rC/Car-Object-Detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Object-Detection&theme=react&hide_border=true">
+    <a href="https://github.com/V1ct0rC/Traffic-problems-using-YOLOv8">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Traffic-problems-using-YOLOv8&theme=react&hide_border=true">
     </a>
 </div>
 
