@@ -3,7 +3,7 @@
 ![alt text](https://github.com/V1ct0rC/V1ct0rC/blob/main/_6a25adf1-7c56-4546-b55a-9913e3d8ee9e1.jpeg)
 
 <p align="justify">
-I am a computer engineering student at UFPE, currently working as Machine Learning Engineer and Data Scientist with experience in building and deploying data-driven solutions. I enjoy turning innovative ideas into actionable insights, driving projects from concept to production. My main interests involve developing and deploying machine learning models, specially related to computer vision and its real-world applications.
+I am a Computer Engineering undergraduate with hands-on experience in Data Science, Machine Learning, and Large Language Models (LLMs). Skilled in Python, AWS, and deep learning frameworks (TensorFlow, PyTorch). Looking to apply AI solutions to real-world problems through innovative system development.
 </p>
 
 ## Technologies & Tools ⚙️
@@ -29,10 +29,14 @@ Throughout my academic journey and various projects, I have worked with a variet
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+        <br>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+        <br>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">   
+        <br>
+        <img width="50px" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000">
+        <img width="50px" src="https://www.infralovers.com/images/posts/ai-for-devops-engineers/langchain_logo.png">
     </div>
 </div>
 
