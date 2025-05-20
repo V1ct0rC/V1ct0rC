@@ -1,6 +1,6 @@
 # Hello, I'm Victor 👋
 
-![alt text](https://github.com/V1ct0rC/V1ct0rC/blob/main/_6a25adf1-7c56-4546-b55a-9913e3d8ee9e1.jpeg)
+<div align="center"> <img src="https://raw.githubusercontent.com/V1ct0rC/V1ct0rC/refs/heads/main/_6a25adf1-7c56-4546-b55a-9913e3d8ee9e1.jpeg"> </div>
 
 <p align="justify">
 I am a Computer Engineering undergraduate with hands-on experience in Data Science, Machine Learning, and Large Language Models (LLMs). Skilled in Python, AWS, and deep learning frameworks (TensorFlow, PyTorch). Looking to apply AI solutions to real-world problems through innovative system development.
