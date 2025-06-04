@@ -8,7 +8,7 @@ I am a Computer Engineering undergraduate with hands-on experience in Data Scien
 
 ## Technologies & Tools ⚙️
 
-Throughout my academic journey and various projects, I have worked with a variety of programming languages, libraries, and tools. Here are some of the technologies thai I got familiar with:
+Throughout my academic and professional journey, I have worked with a variety of programming languages, libraries, and tools. Here are some of the technologies thai I got familiar with:
 
 <div align="center">
 <div> 
@@ -68,13 +68,25 @@ Throughout my academic journey and various projects, I have worked with a variet
 
 ## Projects 🚀
 
-**Roadmap trough Neural Networks and Deep Learning projects:** (Work in progress)
+**Roadmap trough my public Data Science projects:** (Work in progress)
 
-Artificial Neural Networks for Regression
+### Data Handling & Engineering
 
 <div>
     <a href="https://github.com/V1ct0rC/Ciencia-de-Dados-Projeto-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Ciencia-de-Dados-Projeto-1&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/Linkedin-Job-Scraper-and-Analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Linkedin-Job-Scraper-and-Analysis&theme=react&hide_border=true">
+    </a>
+</div>
+<br>
+
+### Machine Learning & Modeling
+
+<div>
+    <a href="https://github.com/V1ct0rC/Revisiting-FIDGAN">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Revisiting-FIDGAN&theme=react&hide_border=true">
     </a>
     <a href="https://github.com/V1ct0rC/Car-Price-Predictor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Price-Predictor&theme=react&hide_border=true">
@@ -82,29 +94,6 @@ Artificial Neural Networks for Regression
 </div>
 <br>
 
-Artificial Neural Networks for Classification
-
-<div>
-    <a href="https://github.com/V1ct0rC/Mushroom-Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Mushroom-Classifier&theme=react&hide_border=true">
-    </a>
-    <a href="https://github.com/V1ct0rC/Iris-Flower-Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Iris-Flower-Classifier&theme=react&hide_border=true">
-    </a>
-</div>
-<br>
-
-Convolutional Neural Networks
-
-<div>
-    <a href="https://github.com/V1ct0rC/CIFAR10-Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=CIFAR10-Classifier&theme=react&hide_border=true">
-    </a>
-    <a href="https://github.com/V1ct0rC/Microscopic-Fungi-Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Microscopic-Fungi-Classifier&theme=react&hide_border=true">
-    </a>
-</div>
-<br>
 <div>
     <a href="https://github.com/V1ct0rC/Enhancing-Sea-Ice-Segmentation-Model">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Enhancing-Sea-Ice-Segmentation-Model&theme=react&hide_border=true">
@@ -115,7 +104,17 @@ Convolutional Neural Networks
 </div>
 <br>
 
-<!--Recurrent Neural Networks-->
+<div>
+    <a href="https://github.com/V1ct0rC/Microscopic-Fungi-Classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Microscopic-Fungi-Classifier&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/Iris-Flower-Classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Iris-Flower-Classifier&theme=react&hide_border=true">
+    </a>
+</div>
+<br>
+
+Large Language Models
 
 Computer Vision
 
