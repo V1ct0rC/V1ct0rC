@@ -116,6 +116,15 @@ Throughout my academic and professional journey, I have worked with a variety of
 
 Large Language Models
 
+<div>
+    <a href="https://github.com/V1ct0rC/Data-Analytics-Chatbot-with-LLMs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Data-Analytics-Chatbot-with-LLMs&theme=react&hide_border=true">
+    </a>
+    <a href="https://github.com/V1ct0rC/GPT2-Fine-Tuning-With-LoRA">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=GPT2-Fine-Tuning-With-LoRA&theme=react&hide_border=true">
+    </a>
+</div>
+
 Computer Vision
 
 <div>
