@@ -88,28 +88,8 @@ Throughout my academic and professional journey, I have worked with a variety of
     <a href="https://github.com/V1ct0rC/Revisiting-FIDGAN">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Revisiting-FIDGAN&theme=react&hide_border=true">
     </a>
-    <a href="https://github.com/V1ct0rC/Car-Price-Predictor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Price-Predictor&theme=react&hide_border=true">
-    </a>
-</div>
-<br>
-
-<div>
     <a href="https://github.com/V1ct0rC/Enhancing-Sea-Ice-Segmentation-Model">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Enhancing-Sea-Ice-Segmentation-Model&theme=react&hide_border=true">
-    </a>
-    <a href="https://github.com/V1ct0rC/Analise-de-modelos-IA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Analise-de-modelos-IA&theme=react&hide_border=true">
-    </a>
-</div>
-<br>
-
-<div>
-    <a href="https://github.com/V1ct0rC/Microscopic-Fungi-Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Microscopic-Fungi-Classifier&theme=react&hide_border=true">
-    </a>
-    <a href="https://github.com/V1ct0rC/Iris-Flower-Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Iris-Flower-Classifier&theme=react&hide_border=true">
     </a>
 </div>
 <br>
@@ -124,18 +104,10 @@ Large Language Models
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=GPT2-Fine-Tuning-With-LoRA&theme=react&hide_border=true">
     </a>
 </div>
+<br>
 
 Computer Vision
 
-<div>
-    <a href="https://github.com/V1ct0rC/System-Controller">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=System-Controller&theme=react&hide_border=true">
-    </a>
-    <a href="https://github.com/V1ct0rC/License-Plate-Blurring">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=License-Plate-Blurring&theme=react&hide_border=true">
-    </a>
-</div>
-<br>
 <div>
     <a href="https://github.com/V1ct0rC/Car-Object-Detection">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Car-Object-Detection&theme=react&hide_border=true">
@@ -144,10 +116,9 @@ Computer Vision
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Traffic-problems-using-YOLOv8&theme=react&hide_border=true">
     </a>
 </div>
+<br>
 
-<br><br>
-
-**Some Embedded Systems projects:**
+### Embedded Systems
 
 <div>
     <a href="https://github.com/V1ct0rC/Embedded-Projects">
@@ -158,17 +129,6 @@ Computer Vision
     </a>
 </div>
 <br><br>
-
-**Things I made (or that I'm making) for fun:**
-
-<div>
-    <a href="https://github.com/V1ct0rC/Sprout-Lands">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Sprout-Lands&theme=react&hide_border=true">
-    </a>
-    <a href="https://github.com/bruhenri12/ambientinator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruhenri12&repo=ambientinator&theme=react&hide_border=true">
-    </a>
-</div>
 
 #### You can find more of my projects on my [GitHub repositories](https://github.com/V1ct0rC).
 
