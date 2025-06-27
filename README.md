@@ -17,9 +17,7 @@ Throughout my academic and professional journey, I have worked with a variety of
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
     </div>
 </div>
 
@@ -37,6 +35,28 @@ Throughout my academic and professional journey, I have worked with a variety of
         <br>
         <img width="50px" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000">
         <img width="50px" src="https://www.infralovers.com/images/posts/ai-for-devops-engineers/langchain_logo.png">
+        <br>
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+    </div>
+</div>
+
+<div> 
+    <h3>Databases</h3>
+    <div>
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+        <br>
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+    </div>
+</div>
+
+<div> 
+    <h3>Cloud Platforms</h3>
+    <div>
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
     </div>
 </div>
 
@@ -44,22 +64,14 @@ Throughout my academic and professional journey, I have worked with a variety of
     <h3>Embedded Systems</h3>
     <div>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
-    </div>
-</div>
-
-<div> 
-    <h3>Front End Development</h3>
-    <div>
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
     </div>
 </div>
 
 <div> 
     <h3>Operating Systems</h3>
     <div>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </div>
 </div>
@@ -73,8 +85,8 @@ Throughout my academic and professional journey, I have worked with a variety of
 ### Data Handling & Engineering
 
 <div>
-    <a href="https://github.com/V1ct0rC/Ciencia-de-Dados-Projeto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Ciencia-de-Dados-Projeto-1&theme=react&hide_border=true">
+    <a href="https://github.com/V1ct0rC/Open-Data-City-Insights-Dashboard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Open-Data-City-Insights-Dashboard&theme=react&hide_border=true">
     </a>
     <a href="https://github.com/V1ct0rC/Linkedin-Job-Scraper-and-Analysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Linkedin-Job-Scraper-and-Analysis&theme=react&hide_border=true">
